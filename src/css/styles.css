@@ -146,15 +146,19 @@ hr{
     max-width: 100%;
     height: auto;
   }
-  .top-cloud{
+ .top-cloud{
     position: absolute;
-    right: 9000px;
+    right: 300px;
     top: 40px;
+    height: 0px;
+    width:0px;
   }
-
+  
   .bottom-cloud{
     position: absolute;
-    right: 9000px;
+    left: 250px;
     bottom: 350px;
+    height: 0px;
+    width:0px;
   }
 }
