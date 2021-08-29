@@ -139,3 +139,22 @@ hr{
    border-radius: 20px;
    text-decoration: none;
 }
+
+@media(max-width: 980px)
+{
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .top-cloud{
+    position: absolute;
+    right: 380px;
+    top: 40px;
+  }
+
+  .bottom-cloud{
+    position: absolute;
+    left: 380px;
+    bottom: 350px;
+  }
+}
