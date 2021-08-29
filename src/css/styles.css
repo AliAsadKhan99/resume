@@ -154,7 +154,7 @@ hr{
 
   .bottom-cloud{
     position: absolute;
-    left: 9000px;
+    right: 9000px;
     bottom: 350px;
   }
 }
